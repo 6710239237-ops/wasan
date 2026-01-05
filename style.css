@@ -1,0 +1,13 @@
+.navber{
+    background: #CB6EED;
+    padding: 12px;
+    display: flex;
+    gap: 20px;
+}
+.navber a {
+    color: aqua;
+    text-decoration: none;
+}
+.navber a:hover {
+    color: black;
+}
